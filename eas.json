@@ -1,0 +1,14 @@
+{
+  "builds": {
+    "android": {
+      "development": {
+        "releaseChannel": "development",
+        "distribution": "internal"
+      },
+      "production": {
+        "releaseChannel": "production",
+        "distribution": "store"
+      }
+    }
+  }
+}
